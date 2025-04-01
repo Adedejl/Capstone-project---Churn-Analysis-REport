@@ -1,8 +1,11 @@
+![churn image2](https://github.com/user-attachments/assets/d5f25904-0bb5-481b-a224-5399dadc7c5b)
+
+
 # Capstone-project---Churn-Analysis-REport
 This is the official repository for the Power BI CapStone project for the Canadian Bank.
 
 Interact with the final dashboard here:
-[
+- [
 
 ## Business problem
 
